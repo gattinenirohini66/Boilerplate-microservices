@@ -1,6 +1,8 @@
 
 language: java
-jdk: openjdk11
+jdk:
+  -openjdk8
+  -openjdk11
 sudo: false
 #script: "mvn cobertura:cobertura"
 cache:
