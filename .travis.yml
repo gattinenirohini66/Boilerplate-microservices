@@ -4,5 +4,7 @@ jdk: openjdk11
 cache:
   directories:
     - "$HOME/.m2/repository"
+env:
+  - CODECOV_TOKEN="504f49c7-0330-4519-8780-13eca387060d"
 after_success:
   - bash <(curl -s https://codecov.io/bash)
