@@ -7,4 +7,4 @@
 ![](https://img.shields.io/github/issues/gattinenirohini66/Boilerplate-microservices.svg?style=popout)
 
 ![](https://img.shields.io/github/contributors/gattinenirohini66/Boilerplate-microservices.svg?style=popout)
-![](https://img.shields.io/github/last-commit/gattinenirohini66/Boilerplate-microservices/v1.0.2.svg?style=popout)
+![](https://img.shields.io/github/last-commit/gattinenirohini66/Boilerplate-microservices.svg?style=popout)
